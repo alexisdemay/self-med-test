@@ -1,0 +1,24 @@
+{
+  "transactions" : [
+     {
+      "id" : 127,
+      "date" : "26/07/2019",
+      "label" : "Achat De Titres",
+      "amout" : -800.1,
+      "status" : "ASSIGNED"
+    }, {
+      "id" : 124,
+      "date" : "01/02/2019",
+      "label" : "CHQ 564789-l",
+      "amout" : 42.22,
+      "status" : "ASSIGNED"
+    },
+    {
+      "id" : 956,
+      "date" : "25/04/2019",
+      "label" : "NETFLIX ORIGINAL",
+      "amout" : -14.0,
+      "status" : "NOTASSIGNED"
+    }
+  ]
+}

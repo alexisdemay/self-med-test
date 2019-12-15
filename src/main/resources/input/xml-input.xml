@@ -1,0 +1,17 @@
+<root>
+  <transaction id="127" date="2019-07-26">
+    <label>Achat De Titres</label>
+    <amount>-800,10</amount>
+    <status>ASSIGNED</status>
+  </transaction>
+  <transaction id="124" date="2019-02-01">
+    <label>CHQ 564789-l</label>
+    <amount>42,22</amount>
+    <status>ASSIGNED</status>
+  </transaction>
+  <transaction id="956" date="2019-04-25">
+    <label>NETFLIX ORIGINAL</label>
+    <amount>-14,00</amount>
+    <status>NOTASSIGNED</status>
+  </transaction>
+</root>
