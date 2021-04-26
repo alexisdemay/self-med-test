@@ -18,7 +18,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>11</java.version>
 		<apache.commons-lang.version>3.9</apache.commons-lang.version>
-		<apache.commons-io.version>2.6</apache.commons-io.version>
+		<apache.commons-io.version>2.7</apache.commons-io.version>
 		<jaxb-impl.version>2.3.1</jaxb-impl.version>
 		<jaxb-bind.version>2.3.1</jaxb-bind.version>
 		<jaxb-core.version>2.3.0.1</jaxb-core.version>
